@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📑 Portfolio Website  
 
 🚀 **Live Demo:** [Click Here](https://uttkarshsh.github.io/Portfolio_/)
@@ -25,3 +26,6 @@ New features and refinements are on the way! Stay tuned for updates.
 
 🔗 **Follow my journey and updates!** 🚀  
 
+=======
+# portfolio1
+>>>>>>> 41441f17b8903c137fefb890c8dff1a00c2488cf
